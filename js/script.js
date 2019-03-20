@@ -2,7 +2,7 @@
 
 
 var eventType = prompt("What type of event are you attending?");
-var tempFahr = prompt("What temperature is it outside?");
+var tempFahr = prompt("What temperature is it outside in Fahrenheit?");
 
 
 if (eventType === "casual") {
