@@ -28,4 +28,3 @@ var result = ("Since you are attending a " + eventType + " event and the tempera
 alert(result);
 console.log(result);
 
-// should I have default values in the question box?
